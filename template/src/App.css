@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+input {
+  margin-left: 20px;
+  border: 1px solid silver;
+}
+button {
+  background: blueviolet;
+  padding: 20px 60px;
+  color: white;
+}
