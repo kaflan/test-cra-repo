@@ -27,5 +27,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
 }
